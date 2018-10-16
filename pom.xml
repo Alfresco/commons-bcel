@@ -30,7 +30,7 @@
   <groupId>org.apache.bcel</groupId>
   <artifactId>bcel</artifactId>
   <packaging>jar</packaging>
-  <version>6.2.99</version>
+  <version>6.3-SNAPSHOT</version>
   <name>Apache Commons BCEL</name>
   <description>Apache Commons Bytecode Engineering Library</description>
 
@@ -200,7 +200,7 @@
     <connection>scm:git:git@github.com:Alfresco/commons-bcel.git</connection>
     <developerConnection>scm:git:git@github.com:Alfresco/commons-bcel.git</developerConnection>
     <url>https://github.com/Alfresco/commons-bcel</url>
-    <tag>bcel-6.2.99</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
