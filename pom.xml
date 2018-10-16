@@ -200,8 +200,8 @@
   </issueManagement>
 
   <scm>
-    <connection>scm:git:https://github.com/Alfresco/commons-bcel.git</connection>
-    <developerConnection>scm:git:https://github.com/Alfresco/commons-bcel.git</developerConnection>
+    <connection>scm:git:git@github.com:Alfresco/commons-bcel.git</connection>
+    <developerConnection>scm:git:git@github.com:Alfresco/commons-bcel.git</developerConnection>
     <url>https://github.com/Alfresco/commons-bcel</url>
     <tag>HEAD</tag>
   </scm>
