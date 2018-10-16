@@ -200,9 +200,10 @@
   </issueManagement>
 
   <scm>
-    <connection>scm:svn:http://svn.apache.org/repos/asf/commons/proper/bcel/trunk</connection>
-    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/commons/proper/bcel/trunk</developerConnection>
-    <url>http://svn.apache.org/repos/asf/commons/proper/bcel/trunk</url>
+    <connection>scm:git:https://github.com/Alfresco/commons-bcel.git</connection>
+    <developerConnection>scm:git:https://github.com/Alfresco/commons-bcel.git</developerConnection>
+    <url>https://github.com/Alfresco/commons-bcel</url>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
