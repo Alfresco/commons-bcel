@@ -17,10 +17,7 @@
   * specific language governing permissions and limitations
   * under the License.
 -->
-<project
-  xmlns="http://maven.apache.org/POM/4.0.0"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
 
@@ -33,7 +30,7 @@
   <groupId>org.apache.bcel</groupId>
   <artifactId>bcel</artifactId>
   <packaging>jar</packaging>
-  <version>6.3-SNAPSHOT</version>
+  <version>6.2.99</version>
   <name>Apache Commons BCEL</name>
   <description>Apache Commons Bytecode Engineering Library</description>
 
@@ -203,7 +200,7 @@
     <connection>scm:git:git@github.com:Alfresco/commons-bcel.git</connection>
     <developerConnection>scm:git:git@github.com:Alfresco/commons-bcel.git</developerConnection>
     <url>https://github.com/Alfresco/commons-bcel</url>
-    <tag>HEAD</tag>
+    <tag>bcel-6.2.99</tag>
   </scm>
 
   <build>
