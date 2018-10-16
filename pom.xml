@@ -66,11 +66,14 @@
 
   <!-- Cannot be added to Commons Parent, see https://issues.apache.org/jira/browse/COMMONSSITE-26 -->
   <distributionManagement>
-    <site>
-      <id>apache.website</id>
-      <name>Apache Website</name>
-      <url>scp://people.apache.org/www/commons.apache.org/${commons.componentid}/</url>
-    </site>
+    <repository>
+      <id>alfresco-internal</id>
+      <url>https://artifacts.alfresco.com/nexus/content/repositories/releases</url>
+    </repository>
+    <snapshotRepository>
+      <id>alfresco-internal-snapshots</id>
+      <url>https://artifacts.alfresco.com/nexus/content/repositories/snapshots</url>
+    </snapshotRepository>
   </distributionManagement>
 
   <licenses>
